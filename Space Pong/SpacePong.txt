@@ -1,0 +1,5 @@
+Space Pong is a PONG clone I created as part of my senior project in high school.
+It was created with Game Maker and supports either 2- or 4-player gameplay. All of
+the art assets were created by myself at the time, and audio was used from a royalty-
+free samples website. This was my very first video game to use graphics, and it was
+made in 2010.
